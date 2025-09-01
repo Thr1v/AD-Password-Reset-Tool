@@ -1,0 +1,4 @@
+tkinter
+pywin32
+pyinstaller
+configparser
