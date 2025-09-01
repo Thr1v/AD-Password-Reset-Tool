@@ -1,4 +1,3 @@
-# filepath: c:\Scripts\messaround\PWResetTool\PWResetTool.py
 # Active Directory Password Reset Tool
 # This tool allows limited AD password reset functionality for apprentices without giving them full AD access
 
@@ -517,3 +516,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
